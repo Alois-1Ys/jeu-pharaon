@@ -1,0 +1,1 @@
+Jeu d'aventure : Pharaon - à ouvrir avec index.html dans un navigateur.
